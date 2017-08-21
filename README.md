@@ -26,12 +26,10 @@ Finally -> In the zshrc file, you'll find my zsh configuration with some practic
 
 ############################
 
-[What VIM looks like]
+[What my NEOVIM looks like]
 
-   (https://github.com/wickedpool/Dotfiles/master/img/Vim-examples.png)
-    
-    Dotfiles/img/Vim-examples.png
-    
-    https://github.com/wickedpool/Dotfiles/img/Vim-examples.png
-    
+<p align="center">
+  <img src="https://github.com/wickedpool/Dotfiles/blob/master/img/Vim-examples.png" width="350"/>
+</p>
+
 ############################
