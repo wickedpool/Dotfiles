@@ -29,7 +29,7 @@ Finally -> In the zshrc file, you'll find my zsh configuration with some practic
 [What my NEOVIM looks like]
 
 <p align="center">
-  <img src="https://github.com/wickedpool/Dotfiles/blob/master/img/Vim-examples.png" width="350"/>
+  <img src="https://github.com/wickedpool/Dotfiles/blob/master/img/Vim-examples.png" width="90%"/>
 </p>
 
 ############################
