@@ -2,7 +2,7 @@
                                        ######### DOTFILES #########
                                        ############################
 
-This is some of my main configurations files.
+This is my main configurations files.
 
 ############################
 
