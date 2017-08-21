@@ -1,0 +1,41 @@
+syntax on
+set nu
+set mouse=a
+set backspace=indent,eol,start
+colorscheme inkpot
+set pastetoggle=<F2>
+set nocompatible
+set backspace=indent,eol,start
+set history=100 "keep 100 lines command history"
+set ruler
+set showcmd "show cmd in bottom bar"
+set showmode "you know which mode you're workin on"
+set incsearch
+set hlsearch
+set autoindent
+set cursorline "highlight current line"
+execute pathogen#infect()
+filetype plugin indent on
+
+nnoremap B ^
+nnoremap E $
+
+map  <Up>    <Nop>
+imap <Up>    <Nop>
+map  <Down>  <Nop>
+imap <Down>  <Nop>
+map  <Right> <Nop>
+imap <Right> <Nop>
+map  <Left>  <Nop>
+imap <Left>  <Nop>
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+------------------ I SWITCHED TO NEOVIM DUDE !!!!! -----------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
