@@ -29,5 +29,9 @@ Finally -> In the zshrc file, you'll find my zsh configuration with some practic
 [What VIM looks like]
 
    (https://github.com/wickedpool/Dotfiles/master/img/Vim-examples.png)
-
+    
+    Dotfiles/img/Vim-examples.png
+    
+    https://github.com/wickedpool/Dotfiles/img/Vim-examples.png
+    
 ############################
