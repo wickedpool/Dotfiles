@@ -18,7 +18,7 @@ You can find my configuration file in the nvim file, it's little harder but well
 
 ############################
 
-Finally -> In the zshrc file, you'll find my zsh configuration with some practicals aliases !
+Finally -> In the zshrc file, you'll find my zsh configuration with some useful aliases !
 
 ############################
 
