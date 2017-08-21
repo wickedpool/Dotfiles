@@ -23,3 +23,11 @@ Finally -> In the zshrc file, you'll find my zsh configuration with some practic
 ############################
 
                                                   E N J O Y !
+
+############################
+
+![What VIM looks like]
+
+   (../master/img/Vim-examples.png)
+
+############################
